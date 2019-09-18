@@ -1,2 +1,2 @@
 # Lord
-Maket with name "Lord"
+https://teixetawre.github.io/Lord/
